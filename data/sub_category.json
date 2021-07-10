@@ -1,0 +1,410 @@
+[
+    {
+        "id":1,
+        "sub_category":"A"
+    },
+    {
+        "id":2,
+        "sub_category":"B"
+    },
+    {
+        "id":3,
+        "sub_category":"C"
+    },
+    {
+        "id":4,
+        "sub_category":"D"
+    },
+    {
+        "id":5,
+        "sub_category":"E"
+    },
+    {
+        "id":6,
+        "sub_category":"F"
+    },
+    {
+        "id":7,
+        "sub_category":"G"
+    },
+    {
+        "id":8,
+        "sub_category":"H"
+    },
+    {
+        "id":9,
+        "sub_category":"I"
+    },
+    {
+        "id":10,
+        "sub_category":"J"
+    },
+    {
+        "id":11,
+        "sub_category":"K"
+    },
+    {
+        "id":12,
+        "sub_category":"L"
+    },
+    {
+        "id":13,
+        "sub_category":"M"
+    },
+    {
+        "id":14,
+        "sub_category":"N"
+    },
+    {
+        "id":15,
+        "sub_category":"O"
+    },
+    {
+        "id":16,
+        "sub_category":"P"
+    },
+    {
+        "id":17,
+        "sub_category":"Q"
+    },
+    {
+        "id":18,
+        "sub_category":"R"
+    },
+    {
+        "id":19,
+        "sub_category":"S"
+    },
+    {
+        "id":20,
+        "sub_category":"T"
+    },
+    {
+        "id":21,
+        "sub_category":"U"
+    },
+    {
+        "id":22,
+        "sub_category":"V"
+    },
+    {
+        "id":23,
+        "sub_category":"W"
+    },
+    {
+        "id":24,
+        "sub_category":"X"
+    },
+    {
+        "id":25,
+        "sub_category":"Y"
+    },
+    {
+        "id":26,
+        "sub_category":"z"
+    },
+    {
+        "id":27,
+        "sub_category":"BOOST YOUR IMMUNITY"
+    },
+    {
+        "id":28,
+        "sub_category":"MASKS"
+    },
+    {
+        "id":29,
+        "sub_category":"PULSE OXIMETER"
+    },
+    {
+        "id":30,
+        "sub_category":"SANITIZERS & HANDWASH PRODUCTS"
+    },
+    {
+        "id":31,
+        "sub_category":"THERMOMETER"
+    },
+    {
+        "id":32,
+        "sub_category":"DISINFECTANTS"
+    },
+    {
+        "id":33,
+        "sub_category":"CHYAWANPRASH"
+    },
+    {
+        "id":34,
+        "sub_category":"TATA 1mg heath products"
+    },
+    {
+        "id":35,
+        "sub_category":"summer Essentials"
+    },
+    {
+        "id":36,
+        "sub_category":"Trending products"
+    },
+    {
+        "id":37,
+        "sub_category":"Explore something new"
+    },
+    {
+        "id":38,
+        "sub_category":"buymore save more"
+    },
+    {
+        "id":39,
+        "sub_category":"vacination"
+    },
+    {
+        "id":40,
+        "sub_category":"minimum 30%"
+    },
+    {
+        "id":41,
+        "sub_category":"combo"
+    },
+    {
+        "id":42,
+        "sub_category":"deal of the day"
+    },
+    {
+        "id":43,
+        "sub_category":"top brands"
+    },
+    {
+        "id":44,
+        "sub_category":"vitamines and supplemnts"
+    },
+    {
+        "id":45,
+        "sub_category":"nutrional drink"
+    },
+    {
+        "id":46,
+        "sub_category":"Health and food drinks"
+    },
+    {
+        "id":47,
+        "sub_category":"protein supples"
+    },
+    {
+        "id":48,
+        "sub_category":"omeha and foof oil"
+    },
+    {
+        "id":49,
+        "sub_category":"Immunity booster"
+    },
+    {
+        "id":50,
+        "sub_category":"specility suppliment"
+    },
+    {
+        "id":51,
+        "sub_category":"weight management"
+    },
+    {
+        "id":52,
+        "sub_category":"Devices"
+    },
+    {
+        "id":53,
+        "sub_category":"Diabetic medicines"
+    },
+    {
+        "id":54,
+        "sub_category":"sugar substitues"
+    },
+    {
+        "id":55,
+        "sub_category":"Diabetic diet"
+    },
+    {
+        "id":56,
+        "sub_category":"Diabetic Foot Health"
+    },
+    {
+        "id":57,
+        "sub_category":"Masks"
+    },
+    {
+        "id":58,
+        "sub_category":"BP monitor"
+    },
+    {
+        "id":59,
+        "sub_category":"Nebuliziers&vaporizers"
+    },
+    {
+        "id":60,
+        "sub_category":"vital signs monitors& wearbles"
+    },
+    {
+        "id":61,
+        "sub_category":"oxygen concentrators&cans"
+    },
+    {
+        "id":62,
+        "sub_category":"sexual wellness"
+    },
+    {
+        "id":63,
+        "sub_category":"skincare"
+    },
+    {
+        "id":64,
+        "sub_category":"Haircare"
+    },
+    {
+        "id":65,
+        "sub_category":"Elderlycare"
+    },
+    {
+        "id":66,
+        "sub_category":"Womencare"
+    },
+    {
+        "id":67,
+        "sub_category":"Mancare"
+    },
+    {
+        "id":68,
+        "sub_category":"OralCare"
+    },
+    {
+        "id":69,
+        "sub_category":"petcare"
+    },
+    {
+        "id":70,
+        "sub_category":"stomuch care"
+    },
+    {
+        "id":71,
+        "sub_category":"Heartcare"
+    },
+    {
+        "id":72,
+        "sub_category":"Bone&joint and muslecare"
+    },
+    {
+        "id":73,
+        "sub_category":"painrelife"
+    },
+    {
+        "id":74,
+        "sub_category":"Eyecare"
+    },
+    {
+        "id":75,
+        "sub_category":"EarCare"
+    },
+    {
+        "id":76,
+        "sub_category":"FirstAit"
+    },
+    {
+        "id":77,
+        "sub_category":"Livercare"
+    },
+    {
+        "id":78,
+        "sub_category":"cold&cough"
+    },
+    {
+        "id":79,
+        "sub_category":"fever"
+    },
+    {
+        "id":80,
+        "sub_category":"kidneycare"
+    },
+    {
+        "id":81,
+        "sub_category":"Respiratory care"
+    },
+    {
+        "id":82,
+        "sub_category":"Piles,Fissure&Fistula"
+    },
+    {
+        "id":83,
+        "sub_category":"smoking cessation"
+    },
+    {
+        "id":84,
+        "sub_category":"Ayurvedha Top brand"
+    },
+    {
+        "id":85,
+        "sub_category":"Herbs"
+    },
+    {
+        "id":86,
+        "sub_category":"unani medicine"
+    },
+    {
+        "id":87,
+        "sub_category":"Natural skin&hair care"
+    },
+    {
+        "id":88,
+        "sub_category":"homopaty top brands"
+    },
+    {
+        "id":89,
+        "sub_category":"homopaty wellness combo"
+    },
+    {
+        "id":90,
+        "sub_category":"homopathy medicine"
+    },
+    {
+        "id":91,
+        "sub_category":"homopaty popular category"
+    },
+    {
+        "id":9,
+        "sub_category":""
+    },
+    {
+        "id":9,
+        "sub_category":""
+    },
+    {
+        "id":9,
+        "sub_category":""
+    },
+    {
+        "id":9,
+        "sub_category":""
+    },
+    {
+        "id":9,
+        "sub_category":""
+    },
+    {
+        "id":9,
+        "sub_category":""
+    },
+    {
+        "id":9,
+        "sub_category":""
+    },
+    {
+        "id":9,
+        "sub_category":""
+    },
+    {
+        "id":9,
+        "sub_category":""
+    },
+    {
+        "id":9,
+        "sub_category":""
+    },
+    {
+        "id":100,
+        "sub_category":""
+    }
+]

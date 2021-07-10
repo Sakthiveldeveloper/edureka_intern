@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "categories":"All Medicines"
+    },
+    {
+        "id":2,
+        "categories":"COVID:19-Test prevension"
+    },
+    {
+        "id":3,
+        "categories":"Features"  
+    },
+    {
+        "id":4,
+        "categories":"Fitness & supllements"
+    },
+    {
+        "id":5,
+        "category":"Diabetes"
+    },
+    {
+        "id":6,
+        "category":"Healthcare devices"
+    },
+    {
+        "id":7,
+        "category":"Personal care"
+    },
+    {
+        "id":8,
+        "category":"Health conditions"
+    },
+    {
+        "id":9,
+        "category":"Ayurvedha products"
+    },
+    {
+        "id":10,
+        "category":"Homopathy"
+    }
+]
